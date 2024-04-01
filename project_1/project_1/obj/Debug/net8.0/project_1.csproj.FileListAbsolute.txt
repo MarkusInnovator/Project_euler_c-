@@ -1,0 +1,15 @@
+C:\desktop\code_learning\code\euler_projcet\Project_euler_csharp\project_1\project_1\bin\Debug\net8.0\project_1.exe
+C:\desktop\code_learning\code\euler_projcet\Project_euler_csharp\project_1\project_1\bin\Debug\net8.0\project_1.deps.json
+C:\desktop\code_learning\code\euler_projcet\Project_euler_csharp\project_1\project_1\bin\Debug\net8.0\project_1.runtimeconfig.json
+C:\desktop\code_learning\code\euler_projcet\Project_euler_csharp\project_1\project_1\bin\Debug\net8.0\project_1.dll
+C:\desktop\code_learning\code\euler_projcet\Project_euler_csharp\project_1\project_1\bin\Debug\net8.0\project_1.pdb
+C:\desktop\code_learning\code\euler_projcet\Project_euler_csharp\project_1\project_1\obj\Debug\net8.0\project_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\desktop\code_learning\code\euler_projcet\Project_euler_csharp\project_1\project_1\obj\Debug\net8.0\project_1.AssemblyInfoInputs.cache
+C:\desktop\code_learning\code\euler_projcet\Project_euler_csharp\project_1\project_1\obj\Debug\net8.0\project_1.AssemblyInfo.cs
+C:\desktop\code_learning\code\euler_projcet\Project_euler_csharp\project_1\project_1\obj\Debug\net8.0\project_1.csproj.CoreCompileInputs.cache
+C:\desktop\code_learning\code\euler_projcet\Project_euler_csharp\project_1\project_1\obj\Debug\net8.0\project_1.sourcelink.json
+C:\desktop\code_learning\code\euler_projcet\Project_euler_csharp\project_1\project_1\obj\Debug\net8.0\project_1.dll
+C:\desktop\code_learning\code\euler_projcet\Project_euler_csharp\project_1\project_1\obj\Debug\net8.0\refint\project_1.dll
+C:\desktop\code_learning\code\euler_projcet\Project_euler_csharp\project_1\project_1\obj\Debug\net8.0\project_1.pdb
+C:\desktop\code_learning\code\euler_projcet\Project_euler_csharp\project_1\project_1\obj\Debug\net8.0\project_1.genruntimeconfig.cache
+C:\desktop\code_learning\code\euler_projcet\Project_euler_csharp\project_1\project_1\obj\Debug\net8.0\ref\project_1.dll
